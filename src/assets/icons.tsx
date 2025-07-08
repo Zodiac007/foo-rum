@@ -327,7 +327,7 @@ export function ChevronIcon() {
   );
 }
 
-export function MouseIcon(props: any) {
+export function MouseIcon() {
   return (
     <svg
       width="32"
